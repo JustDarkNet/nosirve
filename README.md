@@ -1,2 +1,2 @@
-# Sasu
-Venta de Café
+# Screenshot
+![](docs/screenshot.png)
